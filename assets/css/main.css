@@ -1790,6 +1790,12 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+		.image.aboutme {
+			
+			width:400px;
+			height: auto;
+			margin: 0 0 2em 0
+		}
 
 /* List */
 
@@ -1980,7 +1986,7 @@ input, select, textarea {
 /* Item */
 
 	.item {
-		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.253);
 		margin-bottom: 40px;
 	}
 
@@ -1997,6 +2003,8 @@ input, select, textarea {
 
 			.item p {
 				font-size:small;
+				color:whitesmoke;
+				background-color: #222629;
 			}
 
 /* Icons */
